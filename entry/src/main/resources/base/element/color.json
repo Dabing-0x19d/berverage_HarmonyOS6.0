@@ -1,0 +1,108 @@
+{
+  "color": [
+    {
+      "name": "background_primary",
+      "value": "#F2F2F7"
+    },
+    {
+      "name": "background_secondary",
+      "value": "#E5E5EA"
+    },
+    {
+      "name": "background_card",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "background_elevated",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "text_primary",
+      "value": "#000000"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#8E8E93"
+    },
+    {
+      "name": "text_tertiary",
+      "value": "#C7C7CC"
+    },
+    {
+      "name": "text_on_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "tab_unselected",
+      "value": "#8E8E93"
+    },
+    {
+      "name": "tab_selected",
+      "value": "#4CAF50"
+    },
+    {
+      "name": "success",
+      "value": "#4CAF50"
+    },
+    {
+      "name": "shadow_color",
+      "value": "#0F000000"
+    },
+    {
+      "name": "divider_color",
+      "value": "#33000000"
+    },
+    {
+      "name": "border_color",
+      "value": "#E5E5EA"
+    },
+    {
+      "name": "chart_grid",
+      "value": "#E5E5EA"
+    },
+    {
+      "name": "chart_axis_baseline",
+      "value": "#C7C7CC"
+    },
+    {
+      "name": "chart_yaxis_label",
+      "value": "#636366"
+    },
+    {
+      "name": "chart_xaxis_label",
+      "value": "#8E8E93"
+    },
+    {
+      "name": "chart_text_primary",
+      "value": "#000000"
+    },
+    {
+      "name": "week_day_text",
+      "value": "#000000"
+    },
+    {
+      "name": "chart_concentration_normal",
+      "value": "#FF9800"
+    },
+    {
+      "name": "chart_concentration_high",
+      "value": "#F44336"
+    },
+    {
+      "name": "huawei_red",
+      "value": "#CF0A2C"
+    },
+    {
+      "name": "chart_safety_line",
+      "value": "#4CAF50"
+    },
+    {
+      "name": "calendar_share_bg",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "button_disabled",
+      "value": "#E5E5EA"
+    }
+  ]
+}

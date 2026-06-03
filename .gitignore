@@ -1,0 +1,52 @@
+# Dependencies
+node_modules/
+oh_modules/
+**/node_modules/
+**/oh_modules/
+
+# Build output and generated files
+build/
+**/build/
+.hvigor/
+**/.hvigor/
+entry/.preview/
+**/.preview/
+.appanalyzer/
+.cxx/
+**/.test/
+
+# Local IDE and machine settings
+.idea/
+.cursor/
+.vscode/
+local.properties
+.clangd
+.clang-format
+.clang-tidy
+
+# Signing materials and private config
+*.p12
+*.p7b
+*.cer
+*.keystore
+AppScope/rawfile/agconnect-services.json
+agconnect-services.json
+.env
+.env.*
+!.env.example
+
+# Runtime data
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Archives and generated packages
+*.app
+*.hap
+*.har
+*.zip
+
+# OS files
+Thumbs.db
+Desktop.ini

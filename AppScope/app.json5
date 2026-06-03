@@ -1,0 +1,10 @@
+{
+  "app": {
+    "bundleName": "hi.drink.app",
+    "vendor": "example",
+    "versionCode": 10000004,
+    "versionName": "1.4.0",
+    "icon": "$media:layered_image",
+    "label": "$string:app_name"
+  }
+}

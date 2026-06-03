@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <linearGradient id="ag-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#CB1A2A"/>
+      <stop offset="100%" style="stop-color:#E83A4D"/>
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="10" fill="url(#ag-gradient)"/>
+  <path d="M16 12C16 10.8954 16.8954 10 18 10H30C31.1046 10 32 10.8954 32 12V36C32 37.1046 31.1046 38 30 38H18C16.8954 38 16 37.1046 16 36V12Z" fill="white" opacity="0.15"/>
+  <ellipse cx="24" cy="20" rx="5" ry="4" fill="white"/>
+  <path d="M24 24C26.7614 24 29 26.2386 29 29C29 31.7614 26.7614 34 24 34C21.2386 34 19 31.7614 19 29C19 26.2386 21.2386 24 24 24Z" fill="white"/>
+  <circle cx="24" cy="29" r="2" fill="url(#ag-gradient)"/>
+</svg>

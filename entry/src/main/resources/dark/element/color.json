@@ -1,0 +1,96 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#000000"
+    },
+    {
+      "name": "text_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#8E8E93"
+    },
+    {
+      "name": "text_tertiary",
+      "value": "#636366"
+    },
+    {
+      "name": "text_on_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "background_primary",
+      "value": "#000000"
+    },
+    {
+      "name": "background_secondary",
+      "value": "#1C1C1E"
+    },
+    {
+      "name": "background_card",
+      "value": "#1C1C1E"
+    },
+    {
+      "name": "background_elevated",
+      "value": "#2C2C2E"
+    },
+    {
+      "name": "border_color",
+      "value": "#48484A"
+    },
+    {
+      "name": "divider_color",
+      "value": "#3A3A3C"
+    },
+    {
+      "name": "shadow_color",
+      "value": "#40000000"
+    },
+    {
+      "name": "chart_grid",
+      "value": "#3A3A3C"
+    },
+    {
+      "name": "chart_axis_baseline",
+      "value": "#636366"
+    },
+    {
+      "name": "chart_yaxis_label",
+      "value": "#A1A1A6"
+    },
+    {
+      "name": "chart_xaxis_label",
+      "value": "#8E8E93"
+    },
+    {
+      "name": "chart_text_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "tab_selected",
+      "value": "#4CAF50"
+    },
+    {
+      "name": "tab_unselected",
+      "value": "#8E8E93"
+    },
+    {
+      "name": "button_disabled",
+      "value": "#3A3A3C"
+    },
+    {
+      "name": "symbol_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "symbol_secondary",
+      "value": "#8E8E93"
+    },
+    {
+      "name": "calendar_share_bg",
+      "value": "#1C1C1E"
+    }
+  ]
+}

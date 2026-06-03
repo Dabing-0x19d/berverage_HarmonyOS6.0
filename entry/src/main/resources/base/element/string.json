@@ -1,0 +1,116 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "一杯一档"
+    },
+    {
+      "name": "chart_title",
+      "value": "今日咖啡因浓度"
+    },
+    {
+      "name": "chart_current_concentration",
+      "value": "当前浓度: %1$.1f mg/L"
+    },
+    {
+      "name": "chart_legend_curve",
+      "value": "浓度曲线"
+    },
+    {
+      "name": "chart_legend_safety_line",
+      "value": "安全线(40mg/L)"
+    },
+    {
+      "name": "chart_yaxis_unit",
+      "value": "mg/L"
+    },
+    {
+      "name": "year_stats",
+      "value": "年统计"
+    },
+    {
+      "name": "completed_days",
+      "value": "完成天数"
+    },
+    {
+      "name": "remaining_days",
+      "value": "剩余天数"
+    },
+    {
+      "name": "month_stats",
+      "value": "月统计"
+    },
+    {
+      "name": "EntryFormAbility_label",
+      "value": "卡片服务"
+    },
+    {
+      "name": "EntryFormAbility_desc",
+      "value": "提供桌面卡片功能"
+    },
+    {
+      "name": "widget_display_name",
+      "value": "服务卡片"
+    },
+    {
+      "name": "widget_desc",
+      "value": "显示应用信息和快捷操作"
+    },
+    {
+      "name": "widget1_desc",
+      "value": "This is a service widget."
+    },
+    {
+      "name": "widget1_display_name",
+      "value": "周金额统计"
+    },
+    {
+      "name": "widget2_desc",
+      "value": "显示店铺消费排行榜"
+    },
+    {
+      "name": "widget2_display_name",
+      "value": "店铺榜单"
+    },
+    {
+      "name": "card_list_title",
+      "value": "Title"
+    },
+    {
+      "name": "card_list_content",
+      "value": "Introduction"
+    },
+    {
+      "name": "widget_search",
+      "value": "discover more"
+    },
+    {
+      "name": "widget_explored",
+      "value": "explored"
+    },
+    {
+      "name": "widget_study",
+      "value": "study"
+    },
+    {
+      "name": "widget_activity",
+      "value": "activity"
+    },
+    {
+      "name": "widget_mine",
+      "value": "mine"
+    },
+    {
+      "name": "widget_more",
+      "value": "more Info"
+    }
+  ]
+}
