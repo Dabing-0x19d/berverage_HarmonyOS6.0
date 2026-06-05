@@ -2,7 +2,7 @@
 
 一杯一档是一款 HarmonyOS 饮品消费记录应用，用于记录饮品、店铺、热量、花费，并提供统计、历史记录、桌面卡片和账号登录相关能力。
 
-> ⚠️ 截图暂未提供。开源整理时将仓库里的真机截图统一删除以保护隐私；后续将补充脱敏的演示截图。
+> ⚠️ 截图暂未提供。开源整理时将仓库里的真机截图统一删除以保护隐私。如需添加演示截图，请参考 [screenshots/README.md](./screenshots/README.md) 规范。
 
 ## 功能特性
 
@@ -81,6 +81,7 @@ entry/src/main/ets/
 ├── AppScope/              # 应用级配置和资源
 ├── entry/                 # HarmonyOS 主模块（主入口 + 桌面卡片）
 ├── hvigor/                # Hvigor 构建配置
+├── screenshots/           # 演示截图（参见 screenshots/README.md）
 ├── OPEN_SOURCE_REMEDIATION.md  # 开源前整改说明
 ├── build-profile.json5
 ├── hvigorfile.ts
@@ -102,3 +103,7 @@ entry/src/main/ets/
 ## 许可证
 
 MIT License，详见 [LICENSE](./LICENSE)。
+
+## 免责声明
+
+本项目演示截图、示例代码及示例数据中出现的店铺名称、饮品名称、价格、咖啡因含量等均为**虚构数据，仅用于功能演示**。本项目不代表任何真实存在的商业品牌、产品或价格，亦不构成任何商业建议。如有雷同，纯属巧合。
